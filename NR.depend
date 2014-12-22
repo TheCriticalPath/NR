@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1419216280 source:f:\users\tony\documents\git\codeblocks\nr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"flmoon.h"
+	"julday.h"
+
+1419215002 source:f:\users\tony\documents\git\codeblocks\nr\nr_utils.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+
+1419216245 source:f:\users\tony\documents\git\codeblocks\nr\julday.c
+	<math.h>
+
+1419215822 source:f:\users\tony\documents\git\codeblocks\nr\flmoon.c
+	<math.h>
+
+1419215822 f:\users\tony\documents\git\codeblocks\nr\flmoon.h
+
+1419215898 f:\users\tony\documents\git\codeblocks\nr\julday.h
+
